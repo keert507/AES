@@ -47,6 +47,6 @@ int main() {
 
 
 # RESULT:
-
+Thus,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption has been executed successfully
 
 
